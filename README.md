@@ -1,2 +1,0 @@
-"# app cordova" 
-# app cordova
